@@ -14,3 +14,8 @@
 ## Homeworks 03/10/24
 - [x] Read Popper’s text and write a short summary in your GitHub repository
 - [x] Report this work for at least 3 figures on you github/gitlab project.
+
+## Homeworks 17/10/24
+- [x] Complete previous homeworks (Popper, Challenger, Checklist for Good Graphics)
+- [x] Continue the hands-on by improving the experiment design and the analysis. You can check out my fork [here](https://github.com/mehtee/M2R-ParallelQuicksort/tree/master).
+
