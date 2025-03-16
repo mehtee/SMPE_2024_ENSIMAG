@@ -33,3 +33,8 @@
 
 ## Homeworks 21/11/24
 - [x] Keep building intuition on linear model
+
+## Homeworks 05/12/24
+- [x] Read all we’ve seen, try to get some perspective, make sure to make all the connexions and ask me questions.
+> I tried applying Bayesian, Ridge and Lasso regression for the data in https://github.com/alegrand/M2R-ParallelQuicksort
+
