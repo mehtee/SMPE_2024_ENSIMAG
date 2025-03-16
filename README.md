@@ -22,3 +22,10 @@
 ## Homeworks 24/10/24
 - [x] Continue the hands-on by improving the experiment design and the analysis. Share your findings on the Pad and/or on your public fork of the project.
 > I have changed the benchmark to consider larger input values than 10 to the power 6 to see the difference between parallel and sequential quicksort more clearly.
+
+## Homeworks 14/11/24
+- [x] Fit a linear model for the data in https://github.com/alegrand/M2R-ParallelQuicksort
+> It can be accessible [here](https://github.com/mehtee/M2R-ParallelQuicksort/blob/master/linear_regression.ipynb).
+
+> I loaded the result csv file and applied one-hot encoding to the "Type" column (Sequential/Built-in/Parallel). Then, I selected "Size" and encoded "Type" as features, with "Time" as the target. I split the data into training and testing sets, trained a linear regression model, and evaluated it using mean squared error. Finally, I visualized the actual vs. predicted values with a scatter plot.
+
