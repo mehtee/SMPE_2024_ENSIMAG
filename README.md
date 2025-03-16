@@ -42,3 +42,6 @@
 ## Homeworks 12/12/24
 - [x] Think about a possible strategy for the bandit problem
 > in directory Session 10, I will include my journal.
+
+## Homeworks 19/12/24
+- [x] Student/topic assignment
