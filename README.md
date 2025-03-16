@@ -45,3 +45,5 @@
 
 ## Homeworks 19/12/24
 - [x] Student/topic assignment
+
+- [x] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document
