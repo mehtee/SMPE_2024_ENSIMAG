@@ -38,3 +38,7 @@
 - [x] Read all we’ve seen, try to get some perspective, make sure to make all the connexions and ask me questions.
 > I tried applying Bayesian, Ridge and Lasso regression for the data in https://github.com/alegrand/M2R-ParallelQuicksort
 
+
+## Homeworks 12/12/24
+- [x] Think about a possible strategy for the bandit problem
+> in directory Session 10, I will include my journal.
