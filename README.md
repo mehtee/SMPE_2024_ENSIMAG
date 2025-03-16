@@ -19,3 +19,6 @@
 - [x] Complete previous homeworks (Popper, Challenger, Checklist for Good Graphics)
 - [x] Continue the hands-on by improving the experiment design and the analysis. You can check out my fork [here](https://github.com/mehtee/M2R-ParallelQuicksort/tree/master).
 
+## Homeworks 24/10/24
+- [x] Continue the hands-on by improving the experiment design and the analysis. Share your findings on the Pad and/or on your public fork of the project.
+> I have changed the benchmark to consider larger input values than 10 to the power 6 to see the difference between parallel and sequential quicksort more clearly.
