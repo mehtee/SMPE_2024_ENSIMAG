@@ -29,3 +29,5 @@
 
 > I loaded the result csv file and applied one-hot encoding to the "Type" column (Sequential/Built-in/Parallel). Then, I selected "Size" and encoded "Type" as features, with "Time" as the target. I split the data into training and testing sets, trained a linear regression model, and evaluated it using mean squared error. Finally, I visualized the actual vs. predicted values with a scatter plot.
 
+## Homeworks 21/11/24
+- [x] Keep building intuition on linear model
